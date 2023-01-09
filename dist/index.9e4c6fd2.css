@@ -1,0 +1,28 @@
+body, h1 {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding: 1em;
+  font-family: sans-serif;
+}
+
+.ais-SearchBox {
+  margin: 1em 0;
+}
+
+.ais-Pagination {
+  margin-top: 1em;
+}
+
+.left-panel {
+  float: left;
+  width: 300px;
+}
+
+.right-panel {
+  margin-left: 260px;
+}
+
+/*# sourceMappingURL=index.9e4c6fd2.css.map */
